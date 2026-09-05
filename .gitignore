@@ -1,0 +1,18 @@
+# Dependencies
+node_modules
+
+# Build output
+dist
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Vite temp files
+vite.config.ts.timestamp-*.mjs
+
+# Workbuddy tool working directory
+.workbuddy
+
+# OS
+.DS_Store
+Thumbs.db

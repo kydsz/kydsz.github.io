@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>等等 · 个人博客</title>
+    <link>https://kydsz.github.io/</link>
+    <description>一个关于前端、设计与生活的个人博客</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 30 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <atom:link href="https://kydsz.github.io/feed.xml" rel="self" type="application/rss+xml" />
+
+    <item>
+      <title>从零搭建一套属于前端的设计系统</title>
+      <link>https://kydsz.github.io/#/post/design-system-in-practice</link>
+      <guid isPermaLink="false">design-system-in-practice</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 GMT</pubDate>
+      <description>设计令牌、组件分层、主题切换——聊聊我如何用 CSS 变量搭出一套既能保持一致性、又能随主题自由呼吸的设计系统。</description>
+    </item>
+    <item>
+      <title>React 交互设计的六个小模式</title>
+      <link>https://kydsz.github.io/#/post/react-18-interaction-patterns</link>
+      <guid isPermaLink="false">react-18-interaction-patterns</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description>磁性按钮、3D 卡片、滚动显现……这些让页面「活起来」的效果，背后其实都是几个可复用的小模式。</description>
+    </item>
+    <item>
+      <title>TypeScript 类型体操的实用边界</title>
+      <link>https://kydsz.github.io/#/post/typescript-type-gym</link>
+      <guid isPermaLink="false">typescript-type-gym</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <description>类型体操不是炫技，而是在恰当的地方给编辑器一双看得更远的眼睛。聊聊哪些技巧真的值得写进业务代码。</description>
+    </item>
+    <item>
+      <title>用 CSS 画一片会呼吸的极光</title>
+      <link>https://kydsz.github.io/#/post/css-aurora-background</link>
+      <guid isPermaLink="false">css-aurora-background</guid>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
+      <description>不需要 WebGL，几个径向渐变加上模糊与漂移动画，就能做出氛围感拉满的极光背景。</description>
+    </item>
+    <item>
+      <title>夏日读书笔记：三本改变我思维方式的书</title>
+      <link>https://kydsz.github.io/#/post/reading-notes-2026-summer</link>
+      <guid isPermaLink="false">reading-notes-2026-summer</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
+      <description>《置身事内》《设计心理学》《禅与摩托车维修艺术》——这个夏天，它们分别在政府、产品和哲学三个方向上撬动了我。</description>
+    </item>
+    <item>
+      <title>为什么 2026 年还在写博客</title>
+      <link>https://kydsz.github.io/#/post/why-i-still-blog</link>
+      <guid isPermaLink="false">why-i-still-blog</guid>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 GMT</pubDate>
+      <description>短视频时代，写作像一场逆行。但正是这种慢，让它成为我最好的思考工具。</description>
+    </item>
+  </channel>
+</rss>
